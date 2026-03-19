@@ -1,0 +1,32 @@
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+}
+
+.thead {
+  background-color: #2e2e2e;
+  color: #ffffff;
+}
+
+.th {
+  padding: 12px 16px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.td {
+  padding: 12px 16px;
+  text-align: center;
+  font-size: 15px;
+  color: #111111;
+}
+
+.rowEven {
+  background-color: #ffffff;
+}
+
+.rowOdd {
+  background-color: #e8e8e8;
+}
